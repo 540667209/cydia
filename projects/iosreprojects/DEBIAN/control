@@ -1,10 +1,9 @@
 Package: cn.williamxie.iosreprojects
 Name: iosreprojects
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description: an example of using APT Every day people use Cydia, but with the instructions embodied in this package, people can publish for it as well.
-Homepage: http://cydia.williamxie.cn
-Depiction: http://cydia.williamxie.cn
+Depiction: http://cydia.williamxie.cn/depictions/?p=cn.williamxie.iosreprojects
 Maintainer: williamxie <hyw540667209@gmail.com>
 Author: williamxie <hyw540667209@gmail.com>
 Section: Themes (SpringBoard)

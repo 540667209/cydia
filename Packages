@@ -3,30 +3,29 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: williamxie <w@w.com>
 Filename: ./debs/cn.williamxie.bicon_1.0.0_iphoneos-arm.deb
-Size: 12392
-MD5sum: af43bb99d3b1a90f4e587a7c13b0cdbb
-SHA1: 499813880a46fb338a906db8ff5b03ff486601f1
-SHA256: 15f2cc98dbe2271756da942cc43cedd6419bd3d8a085479d12430e3f4a1ccd4d
+Size: 12388
+MD5sum: 3cbdf02dc74b08ead8e602a3185f3c5f
+SHA1: 1c4718e5e658c8adc3707882920d930a502074ce
+SHA256: 134f2bd48a5f6792571a1b82c6f36ce96558589843edc67a960ac746ddf4ee09
 Section: bTweaks
 Description: Adds setup files, icons and sources to repo
 Author: williamxie
-Depiction: http://cydia.williamxie.cn/
+Depiction: http://cydia.williamxie.cn/depictions/?p=cn.williamxie.bicon
 Name: bicon
 Sponsor: http://cydia.williamxie.cn/
 
 Package: cn.williamxie.iosreprojects
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: williamxie <hyw540667209@gmail.com>
-Filename: ./debs/cn.williamxie.iosreprojects_1.0.0_iphoneos-arm.deb
-Size: 630086
-MD5sum: 404b8a2d4dac344656a683cd2610ad85
-SHA1: 4ffd9075463cc869acd6898dbe1faf8b8aaeef5e
-SHA256: 52483d210efaf67e57d0900e00963add0a06c6b65b0c421b62bff34665652550
+Filename: ./debs/cn.williamxie.iosreprojects_1.0.2_iphoneos-arm.deb
+Size: 630088
+MD5sum: 3bbef2b139ebbab0c34bf56b98653559
+SHA1: c1aca9833b9f48fd67908450ae123e84586acdde
+SHA256: eb7d80640c2d0414f6274f8345e590663850870cfcd1473b15b481e70e6b6829
 Section: Themes (SpringBoard)
-Homepage: http://cydia.williamxie.cn
 Description: an example of using APT Every day people use Cydia, but with the instructions embodied in this package, people can publish for it as well.
 Author: williamxie <hyw540667209@gmail.com>
-Depiction: http://cydia.williamxie.cn
+Depiction: http://cydia.williamxie.cn/depictions/?p=cn.williamxie.iosreprojects
 Name: iosreprojects
 
