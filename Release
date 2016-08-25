@@ -1,0 +1,9 @@
+Origin: 悟空源™
+Label:  悟空源™
+Suite:  stable
+Version: 1.0
+Codename: Wukong
+Architectures: iphoneos-arm 
+Components: main
+Description: My Cydia Repository 
+

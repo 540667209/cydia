@@ -1,0 +1,9 @@
+#!/bin/bash
+printf
+echo
+echo
+
+ "Thanks for adding wukong"
+ "Please enjoy"
+echo
+exit 0

@@ -1,0 +1,13 @@
+Package: cn.williamxie.bicon
+Name: bicon
+Architecture: iphoneos-arm
+Section: bTweaks
+Author: williamxie
+#Depiction: http://cydia.williamxie.cn/depictions/?p=cn.williamxie.icon
+Depiction: http://cydia.williamxie.cn/
+Description: Adds setup files, icons and sources to repo
+Maintainer: williamxie <w@w.com>
+Sponsor: http://cydia.williamxie.cn/
+#Essential: yes
+#Priority: required
+Version: 1.0.0
