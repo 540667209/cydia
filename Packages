@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: williamxie <w@w.com>
 Filename: ./debs/cn.williamxie.bicon_1.0.0_iphoneos-arm.deb
 Size: 12388
-MD5sum: 3cbdf02dc74b08ead8e602a3185f3c5f
-SHA1: 1c4718e5e658c8adc3707882920d930a502074ce
-SHA256: 134f2bd48a5f6792571a1b82c6f36ce96558589843edc67a960ac746ddf4ee09
+MD5sum: 76c4734ad86326ce0d4751bdacb70f1a
+SHA1: 41e730730330bc0ac09ec14407f85f26f635c223
+SHA256: 2db5aa5c18535a825a0dacc9ed6abc793080e678e3fdeb9c02563087394b4608
 Section: bTweaks
 Description: Adds setup files, icons and sources to repo
 Author: williamxie
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: williamxie <hyw540667209@gmail.com>
 Filename: ./debs/cn.williamxie.iosreprojects_1.0.2_iphoneos-arm.deb
 Size: 630088
-MD5sum: 3bbef2b139ebbab0c34bf56b98653559
-SHA1: c1aca9833b9f48fd67908450ae123e84586acdde
-SHA256: eb7d80640c2d0414f6274f8345e590663850870cfcd1473b15b481e70e6b6829
+MD5sum: d186915ec45818964e694fe28106ccc9
+SHA1: b1ed89d7fa8034edaa1859ccc32de043fe7adfad
+SHA256: 89495d29ed093546c5d2b81e7fba6d19e8c547b3951706090b0800339cb77ac3
 Section: Themes (SpringBoard)
 Description: an example of using APT Every day people use Cydia, but with the instructions embodied in this package, people can publish for it as well.
 Author: williamxie <hyw540667209@gmail.com>
